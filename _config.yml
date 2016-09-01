@@ -2,14 +2,14 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://username.github.io
 date_format: "ordinal"
-title: 码志
+title: Sean
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "峰哥的个人博客"
+keywords: 峰哥, Wang Baifeng, sean, Wangbaifeng Blog
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 source_code: https://github.com/mzlogin/mzlogin.github.io
 side_bar_repo_limit: 5
@@ -80,10 +80,10 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
+github_username: wangbaifeng
+douban_username: mzlogin
 facebook_username: mzlogin
-weibo_username: mzlogin
+weibo_username: wangbaifeng211314@163.com
 zhihu_username: mzlogin
 twitter_username: mzlogin
 
